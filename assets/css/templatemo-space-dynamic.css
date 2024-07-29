@@ -79,6 +79,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
 .clearfix {
   display: inline-block;
 }
+ .right-text h4 a{
+    color: #ffffff!important;
+  }
 
 html[xmlns] .clearfix {
   display: block;
