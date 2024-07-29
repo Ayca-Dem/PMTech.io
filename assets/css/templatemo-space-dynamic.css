@@ -1498,7 +1498,7 @@ responsive
   .about-us .services .item .right-text {
     text-align: left;
   }
-  .right-text a{
+  .right-text h4 a{
     color: #fff
   }
   .our-services {
